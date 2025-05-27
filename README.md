@@ -15,7 +15,7 @@
 In my spare time, I especially enjoy playing basketball. As a former student at NC State, I have access to the campus gym through the Alumni Association by paying a monthly fee.
 Academically, I’m focused on developing strong skills in data analysis, business strategy, and financial modeling. After completing my studies, I aim to work in a Financial Planning & Analysis (FP&A) role.
 
- ## websites I recommend
+ ## Websites I Recommend
  - [Undemy](https://www.udemy.com/home/my-courses/learning/)
   I used to purchase and subscribe to a variety of courses related to my profession, including accounting, taxation, and finance.
 
